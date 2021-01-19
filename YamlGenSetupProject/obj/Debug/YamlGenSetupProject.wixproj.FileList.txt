@@ -1,0 +1,7 @@
+C:\Users\priom\source\repos\YamlGenSetupProject\bin\Debug\cab1.cab
+C:\Users\priom\source\repos\YamlGenSetupProject\bin\Debug\YamlGenSetupProject.msi
+C:\Users\priom\source\repos\YamlGenSetupProject\bin\Debug\YamlGenSetupProject.wixpdb
+obj\Debug\Product.wixobj
+obj\Debug\YamlGenSetupProject.wixproj.BindContentsFileListnull.txt
+obj\Debug\YamlGenSetupProject.wixproj.BindOutputsFileListnull.txt
+obj\Debug\YamlGenSetupProject.wixproj.BindBuiltOutputsFileListnull.txt

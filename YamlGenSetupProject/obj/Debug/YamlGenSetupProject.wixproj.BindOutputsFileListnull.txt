@@ -1,0 +1,3 @@
+C:\Users\priom\source\repos\YamlGenSetupProject\bin\Debug\cab1.cab
+C:\Users\priom\source\repos\YamlGenSetupProject\bin\Debug\YamlGenSetupProject.msi
+C:\Users\priom\source\repos\YamlGenSetupProject\bin\Debug\YamlGenSetupProject.wixpdb

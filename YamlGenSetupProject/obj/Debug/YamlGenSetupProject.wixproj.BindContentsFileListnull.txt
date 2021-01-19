@@ -1,0 +1,3 @@
+C:\Users\priom\source\repos\MyAddin3\bin\Debug\YamlGenerator.dll
+C:\Users\priom\source\repos\MyAddin3\bin\Debug\YamlDotNet.dll
+C:\Users\priom\source\repos\MyAddin3\bin\Debug\YamlGenerator.pdb
